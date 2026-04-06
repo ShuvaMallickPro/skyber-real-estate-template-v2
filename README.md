@@ -2,8 +2,8 @@
 
 A modern, responsive **real estate website template** built with plain **HTML5 + CSS3 + Bootstrap 5**. This project ships as a set of ready-made pages (home, catalog, account, vendor, blog, and support pages) that you can customize and deploy as a static site.
 
-- **Live demo**: `https://ShuvaMallickPro.github.io/skyber-real-estate-template-v2/`
-- **Repository**: `https://github.com/ShuvaMallickPro/skyber-real-estate-template-v2`
+- **Live demo**: [View on GitHub Pages](https://ShuvaMallickPro.github.io/skyber-real-estate-template-v2/)
+- **Repository**: [View on GitHub](https://github.com/ShuvaMallickPro/skyber-real-estate-template-v2)
 
 ## Features
 
@@ -106,4 +106,4 @@ This project can be deployed to any static hosting platform (GitHub Pages, Netli
 ## Support
 
 If you find a bug or want to request an improvement, please open an issue on the repository:
-`https://github.com/ShuvaMallickPro/skyber-real-estate-template-v2`
+[Open an issue on GitHub](https://github.com/ShuvaMallickPro/skyber-real-estate-template-v2)
